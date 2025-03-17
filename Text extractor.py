@@ -37,7 +37,7 @@ def extract_metrics(log_file):
 
 
 # Run the function and display results
-log_file = r'C:\Users\spike\PyCharmMiscProject\Epoch 140txt.txt' 
+log_file = r'C:\.....\.......\.......\Epoch 140txt.txt' 
 df = extract_metrics(log_file)
 
 # Save to CSV and print
@@ -46,7 +46,7 @@ print("Extracted data saved to training_metrics.csv")
 print(df)
 
 
-log_file = 'C:\\Users\\spike\\PyCharmMiscProject\\Epoch 140txt.txt'
+log_file = 'C:\\Users\\.....\\.....\\Epoch 140txt.txt'
 
 df = extract_metrics(log_file)
 
